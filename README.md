@@ -1,30 +1,3 @@
-# social-links-profile-main
-A Frontend Mentor Challenge for a social-links profile
-# Frontend Mentor - Social links profile solution
-
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-
-
-## Overview
-Recreated a social-link profile.
-### The challenge
-
-Recreated a social-link profile.
-
 ### Screenshot
 
 ![](screencapture-file-Users-anastasiaroussakis-Downloads-social-links-profile-main-index-html-2024-11-07-16_23_52.jpg)
